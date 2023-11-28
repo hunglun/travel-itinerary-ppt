@@ -1,0 +1,116 @@
+[
+    {
+        "name": "樟宜机场",
+        "date": "2024-01-22",
+        "url": "https://www.changiairport.com",
+        "description": "新加坡樟宜機場（英語：Singapore Changi Airport）是新加坡唯一民用机场，也是新加坡最大的国际机场，座落于新加坡東區樟宜，占地13平方公里，距市区约17.2公里。",
+        "photo": "changi-airport.jpg"
+    },
+    {
+        "name": "东海岸公园",
+        "date": "2024-01-22",
+        "url": "https://zh.wikipedia.org/wiki/東海岸公園",
+        "description": "新加坡最大的公園，位於新加坡東南部海岸，佔地185公頃，由濱海灣一直延伸至勿洛，分為A至H區。園中沙灘全長7.5公里，沙灘旁建有一條全長15公里的慢跑步道和一條全長12公里的腳踏車道[1]。公園每年吸引超過700萬遊客遊覽",
+        "photo": "east-coast-park.jpg"
+    },
+    {
+        "name": "滨海湾花园",
+        "date": "2024-01-23",
+        "url": "https://www.gardensbythebay.com.sg",
+        "description": "位於新加坡濱海灣中央的公園，於2012年落成，佔地101公頃，全土興建於填海土地上，毗連濱海蓄水池。興建濱海灣花園的構思開始於2006年，期望可以促進新加坡由花園城市進化為「花園中的城市」。",
+        "photo": "garden-by-the-bay.jpg"
+    },
+    {
+        "name": "万象馆",
+        "date": "2024-01-23",
+        "url": "https://www.madametussauds.com/singapore",
+        "description": "探索新加坡丰富多彩的故事，从简陋的渔村到 21 世纪的强国 - 穿越不同的布景，包括特效和沉浸式主题。",
+        "photo": "images-of-singapore.jpg"
+    },
+
+    {
+        "name": "手工制作",
+        "date": "2024-01-23",
+        "url": "",
+        "description": "To be determined",
+        "photo": ""
+    },
+    
+    {
+        "name": "鱼尾狮",
+        "date": "2024-01-23",
+        "url": "https://www.visitsingapore.com.cn/see-do-singapore/recreation-leisure/viewpoints/merlion-park/",
+        "description": "半鱼半狮的鱼尾狮是新加坡的标志，它就坐落于滨海湾的鱼尾狮公园。",
+        "photo": "merlion.jpg"
+    },
+    {
+        "name": "滨海湾金沙",
+        "date": "2024-01-23",
+        "url": "https://zh.marinabaysands.com",
+        "description": "位於新加坡的一座面向濱海灣的綜合渡假村，是世界上造價最高的獨立賭場建物，包括土地成本在内的建造成本達80億新元（68.8億美元）。于2010年4月27日開幕。",
+        "photo": "marina-bay-sands.jpg"
+    },
+    {
+        "name": "风动飞行",
+        "date": "2024-01-24",
+        "url": "https://www.iflysingapore.com/activity-to-do-in-singapore/?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIgDqVc08q0BkHy1tm-x7FDFXNUmUeEPuv9CBzCQMrg46jyigvhAKRxoCAo4QAvD_BwE",
+        "description": "iFly 新加坡是世界上第一个主题室内跳伞设施，自 2011 年起在圣淘沙推出。最先进的风洞让任何人，从初次飞行者到专业跳伞者，都有机会在一个易于接近、真实、安全且负担得起的环境。 iFly 新加坡高 56.5 英尺，直径 16.5 英尺，是世界上最大的风洞之一，最多可同时容纳 20 名专业飞行者。",
+        "photo": "ifly.png"
+    },
+    {
+        "name": "新加坡游船",
+        "date": "2024-01-24",
+        "url": "https://www.visitsingapore.com.cn/see-do-singapore/recreation-leisure/fun-things-to-do/singapore-river-bumboat/",
+        "description": "登上新加坡河游船公司驳船，在经典游船体验中漫游新加坡河，悠悠品味新加坡的历史长河与现代化蜕变。",
+        "photo": "singapore-cruise.jpg"
+    },
+    {
+        "name": "夜间动物园",
+        "date": "2024-01-24",
+        "url": "https://www.mandai.com/zh/night-safari.html",
+        "description": "新加坡标志性旅游景点，亦是全球首座专为夜行动物设计的野生动物园。动物园于1994年开幕，现占地面积35公顷，位于新加坡北区万礼，坐落在新加坡动物园和实里达蓄水池上段旁的热带雨林中。",
+        "photo": "night-safari.jpg"
+    },
+    {
+        "name": "圣淘沙",
+        "date": "2024-01-25",
+        "url": "https://www.sentosa.com.sg/",
+        "description": "很受欢迎的新加坡岛屿和旅游胜地，每年约有2千万游客到访。岛的南岸有长度超过2公里的海滩，二战留下的西罗索炮台（Fort Siloso）、两个高尔夫球场及7间酒店。当中还包括圣淘沙名胜世界及其运营的新加坡环球影城主题公园。",
+        "photo": "sentosa.jpg"       
+    },
+    {
+        "name": "小印度",
+        "date": "2024-01-25",
+        "url": "https://www.visitsingapore.com/see-do-singapore/places-to-see/little-india/",
+        "description": "新加坡的一个泰米尔人的族裔社区，位于新加坡河东部（牛车水对面），甘榜格南（马来人聚居地）以北。这些区域都是梧槽城市规划区的一部分。小印度在当地泰米尔社区更普遍称为竹脚（Tekka）。",
+        "photo": "little-india.jpg"
+    },
+    {
+        "name": "牛车水",
+        "date": "2024-01-25",
+        "url": "https://www.visitsingapore.com.cn/see-do-singapore/places-to-see/chinatown/",
+        "description": "新加坡的唐人街，位于欧南园区，是该国历史上重要的华人聚集地，亦是当地的著名旅游景点之一，以中葡式风格的店屋为主",
+        "photo": "chinatown.jpg"
+    },
+    {
+        "name": "摩天轮",
+        "date": "2024-01-25",
+        "url": "https://www.singaporeflyer.com/cn",
+        "description": "42層樓高的新加坡摩天輪的輪體直徑達150米，安置在3層的休閒購物中心樓上，總高度達到165米。這一高度超過了160米高的南昌之星和130米的倫敦眼。28個安裝了空調的座艙可以分別容納28名乘客。摩天輪旋轉一周約用30分鐘時間。",
+        "photo": "singapore-flyer.jpg"
+    },
+    {
+        "name": "科学馆",
+        "date": "2024-01-26",
+        "url": "https://www.science.edu.sg",
+        "description": "新加坡科学中心，以前称为新加坡科学中心，是位于新加坡裕廊东的一家科学机构，专门致力于向公众推广科技教育。 它在八个展览馆中展出了 850 多件展品，每年接待超过 100 万参观者。 2003 年，它庆祝了成立 20 周年。",
+        "photo": "science-centre.jpg"
+    },
+    {
+        "name": "星耀樟宜",
+        "date": "2024-01-26",
+        "url": "https://www.jewelchangiairport.com/en.html",
+        "description": "位於新加坡樟宜机场中以自然為主題的娛樂、零售綜合設施，連結該機場的三個航廈（T1航站楼与该购物中心直接相邻，而T2、T3航站楼需要通过专用人行过道前往）。其核心為世界最高的室內瀑布「雨漩渦」（the Rain Vortex），其週邊為階梯式森林佈置。",
+        "photo": "jewel-changi.jpg"
+    }
+]
