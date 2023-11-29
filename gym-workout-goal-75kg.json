@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Machine Chest Press",
+        "date": "2023-11-29",
+        "url": "https://www.verywellfit.com/how-to-do-the-seated-machine-chest-press-3498292",
+        "description": "50lbs",
+        "photo": "machine-chest-press.jpg"
+    },
+    {
+        "name": "Lat Pulldown",
+        "date": "2023-11-29",
+        "url": "",
+        "description": "supinated grip",
+        "photo": "lat-pulldown.jpg"
+    },
+    {
+        "name": "Cable Tricep extension",
+        "date": "2023-11-29",
+        "url": "",
+        "description": "single arm extension",
+        "photo": "cable-tricep-extension-single-arm.jpg"
+    },
+    {
+        "name": "Single Arm Pulldown",
+        "date": "2023-11-29",
+        "url": "",
+        "description": "seated on bench",
+        "photo": "single-arm-pulldown.png"
+    },
+    {
+        "name": "Hammer Strength Machine",
+        "date": "2023-11-29",
+        "url": "",
+        "description": "pulldown 20 kg per side",
+        "photo": "hammer-strength-machine.jpg"
+    },
+    {
+        "name": "Cable Chest Fly",
+        "date": "2023-11-29",
+        "url": "https://www.beachbodyondemand.com/blog/cable-chest-fly-exercise",
+        "description": "",
+        "photo": "cable-chest-fly.jpg"
+    }
+]
+    

@@ -29,11 +29,11 @@
     },
 
     {
-        "name": "手工制作",
+        "name": "有机肥皂手工制作",
         "date": "2024-01-23",
-        "url": "",
-        "description": "To be determined",
-        "photo": ""
+        "url": "https://soapministry.com/pages/our-story",
+        "description": "Soap Ministry 是手工制作亲肤有机肥皂艺术的先驱，我们强烈提倡使用天然草药和有机肥皂制作成分。 天然成分具有许多令人惊奇的特性，我们的愿景是通过最令人兴奋和最有力的方式传达这一点——通过第一手经验！ 我们为您提供一个令人兴奋的机会来探索 DIY 有机护肤品的神奇世界。",
+        "photo": "soap-ministry.png"
     },
     
     {
@@ -51,53 +51,53 @@
         "photo": "marina-bay-sands.jpg"
     },
     {
-        "name": "风动飞行",
-        "date": "2024-01-24",
-        "url": "https://www.iflysingapore.com/activity-to-do-in-singapore/?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIgDqVc08q0BkHy1tm-x7FDFXNUmUeEPuv9CBzCQMrg46jyigvhAKRxoCAo4QAvD_BwE",
-        "description": "iFly 新加坡是世界上第一个主题室内跳伞设施，自 2011 年起在圣淘沙推出。最先进的风洞让任何人，从初次飞行者到专业跳伞者，都有机会在一个易于接近、真实、安全且负担得起的环境。 iFly 新加坡高 56.5 英尺，直径 16.5 英尺，是世界上最大的风洞之一，最多可同时容纳 20 名专业飞行者。",
-        "photo": "ifly.png"
-    },
-    {
-        "name": "新加坡游船",
-        "date": "2024-01-24",
-        "url": "https://www.visitsingapore.com.cn/see-do-singapore/recreation-leisure/fun-things-to-do/singapore-river-bumboat/",
-        "description": "登上新加坡河游船公司驳船，在经典游船体验中漫游新加坡河，悠悠品味新加坡的历史长河与现代化蜕变。",
-        "photo": "singapore-cruise.jpg"
-    },
-    {
-        "name": "夜间动物园",
-        "date": "2024-01-24",
-        "url": "https://www.mandai.com/zh/night-safari.html",
-        "description": "新加坡标志性旅游景点，亦是全球首座专为夜行动物设计的野生动物园。动物园于1994年开幕，现占地面积35公顷，位于新加坡北区万礼，坐落在新加坡动物园和实里达蓄水池上段旁的热带雨林中。",
-        "photo": "night-safari.jpg"
-    },
-    {
         "name": "圣淘沙",
-        "date": "2024-01-25",
+        "date": "2024-01-24",
         "url": "https://www.sentosa.com.sg/",
         "description": "很受欢迎的新加坡岛屿和旅游胜地，每年约有2千万游客到访。岛的南岸有长度超过2公里的海滩，二战留下的西罗索炮台（Fort Siloso）、两个高尔夫球场及7间酒店。当中还包括圣淘沙名胜世界及其运营的新加坡环球影城主题公园。",
         "photo": "sentosa.jpg"       
     },
     {
         "name": "小印度",
-        "date": "2024-01-25",
+        "date": "2024-01-24",
         "url": "https://www.visitsingapore.com/see-do-singapore/places-to-see/little-india/",
         "description": "新加坡的一个泰米尔人的族裔社区，位于新加坡河东部（牛车水对面），甘榜格南（马来人聚居地）以北。这些区域都是梧槽城市规划区的一部分。小印度在当地泰米尔社区更普遍称为竹脚（Tekka）。",
         "photo": "little-india.jpg"
     },
     {
         "name": "牛车水",
-        "date": "2024-01-25",
+        "date": "2024-01-24",
         "url": "https://www.visitsingapore.com.cn/see-do-singapore/places-to-see/chinatown/",
         "description": "新加坡的唐人街，位于欧南园区，是该国历史上重要的华人聚集地，亦是当地的著名旅游景点之一，以中葡式风格的店屋为主",
         "photo": "chinatown.jpg"
     },
     {
         "name": "摩天轮",
-        "date": "2024-01-25",
+        "date": "2024-01-24",
         "url": "https://www.singaporeflyer.com/cn",
         "description": "42層樓高的新加坡摩天輪的輪體直徑達150米，安置在3層的休閒購物中心樓上，總高度達到165米。這一高度超過了160米高的南昌之星和130米的倫敦眼。28個安裝了空調的座艙可以分別容納28名乘客。摩天輪旋轉一周約用30分鐘時間。",
         "photo": "singapore-flyer.jpg"
+    },
+    {
+        "name": "风动飞行",
+        "date": "2024-01-25",
+        "url": "https://www.iflysingapore.com/activity-to-do-in-singapore/?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIgDqVc08q0BkHy1tm-x7FDFXNUmUeEPuv9CBzCQMrg46jyigvhAKRxoCAo4QAvD_BwE",
+        "description": "iFly 新加坡是世界上第一个主题室内跳伞设施，自 2011 年起在圣淘沙推出。最先进的风洞让任何人，从初次飞行者到专业跳伞者，都有机会在一个易于接近、真实、安全且负担得起的环境。 iFly 新加坡高 56.5 英尺，直径 16.5 英尺，是世界上最大的风洞之一，最多可同时容纳 20 名专业飞行者。",
+        "photo": "ifly.png"
+    },
+    {
+        "name": "新加坡游船",
+        "date": "2024-01-25",
+        "url": "https://www.visitsingapore.com.cn/see-do-singapore/recreation-leisure/fun-things-to-do/singapore-river-bumboat/",
+        "description": "登上新加坡河游船公司驳船，在经典游船体验中漫游新加坡河，悠悠品味新加坡的历史长河与现代化蜕变。",
+        "photo": "singapore-cruise.jpg"
+    },
+    {
+        "name": "夜间动物园",
+        "date": "2024-01-25",
+        "url": "https://www.mandai.com/zh/night-safari.html",
+        "description": "新加坡标志性旅游景点，亦是全球首座专为夜行动物设计的野生动物园。动物园于1994年开幕，现占地面积35公顷，位于新加坡北区万礼，坐落在新加坡动物园和实里达蓄水池上段旁的热带雨林中。",
+        "photo": "night-safari.jpg"
     },
     {
         "name": "科学馆",
